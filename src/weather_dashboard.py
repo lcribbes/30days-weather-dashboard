@@ -73,6 +73,7 @@ def main():
     # Create bucket if needed
     dashboard.create_bucket_if_not_exists()
     
+    # list of cities to track
     cities = ["Philadelphia", "Seattle", "New York"]
     
     for city in cities:
