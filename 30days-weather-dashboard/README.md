@@ -68,7 +68,7 @@ What I Learned
 	4. Python best practices for API integration
 	5. AWS S3 bucket creation and management
 	6. Error handling in distributed systems
-  7. Cloud resource management
+  	7. Cloud resource management
 
 
 Future Enhancements
