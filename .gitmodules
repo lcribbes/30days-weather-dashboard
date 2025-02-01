@@ -1,3 +1,0 @@
-[submodule "NBADataLake"]
-	path = NBADataLake
-	url = git@github.com:alahl1/NBADataLake.git
